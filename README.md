@@ -33,8 +33,3 @@ These results highlight the potential of machine learning techniques to effectiv
 GaussianProcessClassifier, Logistic Regression, DecisionTreeClassifier, XGBoost, GradientBoostingClassifier
 
 
-For more information, please contact [Your Name/Team] at [Your Contact Information].
-
----
-
-Feel free to contribute to this repository by forking, submitting issues, or creating pull requests. Your feedback and collaboration are greatly appreciated!
